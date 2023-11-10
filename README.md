@@ -32,6 +32,14 @@ Pharmacy Management System is a web-based application designed to streamline the
 3. Navigate to `management.php` to manage employee information.
 4. Navigate to `stock.php` to manage pharmacy stocks.
 
+## Preview
+
+![Dashbaord](assets/img1.png?raw=true "Dashboard page")
+
+![Details](assets/img2.png?raw=true "Details page")
+
+![Profile](assets/img3.png?raw=true "Employee Details")
+
 ## Contributing
 
 Contributions are welcome! Fork the repository and create a pull request.
